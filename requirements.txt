@@ -1,1 +1,4 @@
-
+torch
+salesforce-lavis
+opencv-python
+Pillow
